@@ -1,2 +1,2 @@
-# Scoring
-Un dépôt pour partager mes travaux et réflexions 
+# Quelques travaux
+Dans ce dépôt, vous trouverez quelques uns de mes travaux et réflexions sur l'analyse de données.
